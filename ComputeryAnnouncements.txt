@@ -1,2 +1,2 @@
-<size=50%><color=#ffff>Announcement Regarding</color></size>
-<size=60%><b><link="https://steamcommunity.com/app/2386720/discussions/0/804595528394493549/"><color=#00BFFF><u>Developer Impersonations</u></color></link></b>
+<size=40%><color=#ffff>Announcement Regarding</color></size>
+<size=50%><b><link="https://steamcommunity.com/app/2386720/discussions/0/804595528394493549/"><color=#00BFFF><u>Developer Impersonations</u></color></link></b> (click to read)
